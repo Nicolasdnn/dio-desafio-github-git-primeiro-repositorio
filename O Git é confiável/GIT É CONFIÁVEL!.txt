@@ -1,0 +1,20 @@
+# Não tenha dúvidas, O GIT É CONFIÁVEL!
+
+# Git é confiável, porque qualquer arquivo que 
+
+alguém mexer, reflete no outro, sendo assim,
+
+ também mostrará no horário, data do commit e os
+
+ objetos com hashs diferentes 
+
+( só olhar o histórico do commit).
+
+Resumindo...
+
+Se alguém malicioso mexer aos seus arquivos 
+
+
+apagando ou modificando,você sempre verá oque 
+
+aconteceu sempre.

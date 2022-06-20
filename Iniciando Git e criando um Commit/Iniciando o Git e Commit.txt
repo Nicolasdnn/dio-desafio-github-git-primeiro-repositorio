@@ -1,0 +1,6 @@
+Comando utilizados:
+-git init inicia o conceito do git no repositório.
+
+-git add deixa os conteúdos a mostra, levando ao stage.
+
+-git commit verifica se tudo está no lugar, gerando o relatório e preparando eles para um "push" ou "pool".

@@ -1,0 +1,26 @@
+# O que Vamos Aprender?
+
+- Mudar pastas
+- Listar pastas
+- Criar pastas/Arquivos
+- Deletar pastas/arquivos
+
+# Comandos:
+-dir= Listar; ls= Listar
+-cd= Navegar entre pastas
+-cd ..= Voltar o comando
+-cls= Limpar tela; Ctrl+l= Limpar tela
+-mkdir= Criar pastas
+-echo= Printa devolta ao terminal
+-del= Deletar apenas arquivos
+-rmdir Deletar repositório
+-rm-rf= Deletar repositório
+
+RESUMO:
+
+Windows          Unix/Linux
+-cd              -cd
+-dir             -ls
+-mkdir           -mkdir
+-del/rmdir       -rm-rf                                  
+

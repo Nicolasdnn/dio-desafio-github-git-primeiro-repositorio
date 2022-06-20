@@ -1,0 +1,18 @@
+#Sha1= 
+É um algoritimo de criptação,resumindo...
+
+Vai pegar seu arquivo, seja ele foto, imagem, frase e vai "embaralhar" ele de forma específica.
+A sigla sha significa "Secure Hash Algoritm" 
+(Algoritimo de Hash Seguro). Um conjunto de funções hash criptografadas projetadas pela NSA(Agência de Segurança Nacional dos Eua).
+
+#Encriptação=
+Gera um conjunto de characteres identificador de 40 cóodigos.
+
+#Objetos Fundamentais
+
+##Blobs= Os arquivos ficam guardados dentro desse objeto chamado blob e esse objeto contém metadados nele.
+
+##Trees= Armazena blob, então, sendo uma crescente: a blob sendo um bloco básico de composição, a tree armazenando e apontando para tipos de blobs diferentes.
+
+
+##Commits= É o objeto que vai juntar tudo, dando sentido para alteração que você está fazendo.
