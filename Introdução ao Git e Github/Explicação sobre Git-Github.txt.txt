@@ -1,7 +1,27 @@
-#Download do Git :https://git-scm.com/downloads
 
-#Diferença do Git para o Github:
+#DiferenÃ§a do Git para o Github:
 
-## Git é um software, no git você desenvolve seus projetos e códigos, sendo assim, um versionamento de código distribuídos.
 
-## Github  uma plataforma de hospedagem de códigos e arquivos que vem direto do Git usando-o "por baixo dos panos. Também funciona como uma rede social,pode se dizer colaborativa. Programadores e empresas colocam seus projetos para desenvolvimento de código, também devs/alunos também colocam projetos para alguém encontrar melhorias e aperfeiçoamento.
+## Git Ã© um software, no git vocÃª desenvolve seus
+
+ projetos e cÃ³digos, sendo assim, um
+
+ versionamento de cÃ³digo distribuÃ­dos.
+
+
+
+## Github  uma plataforma de hospedagem de
+ 
+cÃ³digos e arquivos que vem direto do Git usando-o
+
+ "por baixo dos panos. TambÃ©m funciona como uma
+
+ rede social,pode se dizer colaborativa.
+
+ Programadores e empresas colocam seus projetos
+
+ para desenvolvimento de cÃ³digo, tambÃ©m
+
+ devs/alunos tambÃ©m colocam projetos para alguÃ©m
+
+ encontrar melhorias e aperfeiÃ§oamento.
