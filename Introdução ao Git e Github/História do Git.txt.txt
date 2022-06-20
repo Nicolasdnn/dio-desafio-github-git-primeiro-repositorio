@@ -1,7 +1,19 @@
-#Git História Breve
+#Git HistÃ³ria Breve
 
-## Começou quando houve um rompimento da relação entre as comunidades a quais desenvolviam Kernel do Linux e a Bitkeeper. Linus Torvalds insatisfeito com a mudança de licença de utilização Bitkeeper.
-Desenvolvido 7 de abril de 2005 (17 anos) por Linus Torvalds, também criador  do Kernel Linux.
+#ComeÃ§ou quando houve um rompimento da relaÃ§Ã£o 
+
+entre as comunidades a quais desenvolviam Kernel 
+
+do Linux e a Bitkeeper. Linus Torvalds 
+
+insatisfeito com a mudanÃ§a de licenÃ§a de 
+
+utilizaÃ§Ã£o Bitkeeper.
+Desenvolvido 7 de abril de 2005 (17 anos) por 
+
+Linus Torvalds, tambÃ©m criador  do Kernel Linux.
+
+
 
 
 
